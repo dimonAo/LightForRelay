@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LightForRelay</string>
+
+    <string-array name="relay_name">
+        <item>GH</item>
+        <item>GM</item>
+        <item>GL</item>
+        <item>Y</item>
+        <item>W/Y</item>
+    </string-array>
+</resources>
