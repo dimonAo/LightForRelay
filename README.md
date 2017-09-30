@@ -7,4 +7,8 @@ v0.02
 v0.01
 五个继电器单独修改
 
+<<<<<<< HEAD
 create branch for project >>>>master
+=======
+create branch for project >>>>>>dev
+>>>>>>> dev
